@@ -7,3 +7,10 @@ integrate the database into the git workflow
 ## Use cases
 
 Teams working on projects with frequently changing database models
+
+## Generators
+
+- Typescript
+- Hibernate
+- Hiberante+Validation
+- Typescript+Angular

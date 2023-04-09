@@ -1,0 +1,22 @@
+{
+    "name": "my-database",
+
+    "schemes": [
+        {
+            "name": "my-scheme",
+
+            "tables": [
+                {
+                    "name": "my-table",
+                    
+                    "columns": [
+                        {
+                            "name": "my-column",
+                            "type": "string"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}
