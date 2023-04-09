@@ -6,4 +6,4 @@ integrate the database into the git workflow
 
 ## Use cases
 
-Large teams working on big projects with frequently changing database models
+Teams working on projects with frequently changing database models
